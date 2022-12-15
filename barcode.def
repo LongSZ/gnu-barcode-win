@@ -1,0 +1,12 @@
+; gnu barcode library
+EXPORTS
+; basic functions
+    Barcode_Create
+    Barcode_Delete
+    Barcode_Encode
+    Barcode_Print
+    Barcode_Position
+    Barcode_Encode_and_Print
+    Barcode_Version
+
+; advanced functions
